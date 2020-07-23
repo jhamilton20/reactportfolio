@@ -5,23 +5,26 @@ export default
         headerTagline: [
                         'Hi 👋 You found me! I am James Hamilton.',
                        
-                        'Software Developer ',
+                        'Full Stack Software Developer ',
                        
                         'from Arizona'
     ],
+    aboutImage:'https://i.ibb.co/377GmwY/john.jpg',
+  
+    ShowAboutImage:true,
        
         contactEmail:'jhamilton72.jh@gmail.com',
         
-        abouttext: " Hi I’m James, I’m 26 years old and I’m from Morenci, Arizona. I’m currently taking this coding and web design",
-  
-       ShowAboutImage:true,
+        abouttext: " Passionate Full Stack Web Developer applying strong technical                 skills towards building user-friendly, professional-caliber websites.                Graduate of a Full Stack Web Development Bootcamp through The University                  of Arizona. Thorough understanding of JavaScript, React, Redux, Express,               MongoDB, HTML, CSS, and various other web technologies. Created numerous             full-stack projects both working in groups and on my own. ",
+        
+    
        projects:[
            {
             id: 1,
             title:'Project One', 
              service:'Bid Pro', 
          
-             imageSrc: "https://i.imgur.com/o8fiQsk.jpg",
+             imageSrc: "https://i.ibb.co/3Yb9Wyx/Screen-Shot-2020-07-23-at-12-04-42-PM.png",
    
              url:'https://bid-pro.herokuapp.com/'
             },
@@ -29,8 +32,8 @@ export default
                 id: 2,
                 title: 'Project Two',
                 service: 'Stargazerz',
-                imageSrc: "https://jhamilton20.github.io/projectone/",
-                url: 'http://chetanverma.com/'
+                imageSrc: "https://i.imgur.com/o8fiQsk.jpg",
+                url: 'https://jhamilton20.github.io/projectone/'
             },
             { 
                 id: 3,
