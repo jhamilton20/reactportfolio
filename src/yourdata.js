@@ -33,7 +33,7 @@ export default
                 title: 'Project Two',
                 service: 'Stargazerz',
                 imageSrc: "https://i.imgur.com/o8fiQsk.jpg",
-                url: 'https://jhamilton20.github.io/projectone/'
+                url: 'https://jhamilton20.github.io/Stargazers/'
             },
             { 
                 id: 3,
