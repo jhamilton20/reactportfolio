@@ -5,7 +5,7 @@ export default
         headerTagline: [
                         'Hi 👋 You found me! I am James Hamilton.',
                        
-                        'Full Stack Software Developer ',
+                        'Full Stack Software Engineer ',
                        
                         'from Arizona'
     ],
@@ -22,7 +22,7 @@ export default
            {
             id: 1,
             title:'BidPro', 
-             service:'', 
+             service:'https://github.com/LynnONeill/Bid-Pro', 
          
              imageSrc: "https://i.ibb.co/3Yb9Wyx/Screen-Shot-2020-07-23-at-12-04-42-PM.png",
    
@@ -31,23 +31,23 @@ export default
             {
                 id: 2,
                 title: 'Stargazers',
-                service: '',
+                service: 'https://github.com/jhamilton20/Stargazers',
                 imageSrc: "https://i.imgur.com/o8fiQsk.jpg",
                 url: 'https://jhamilton20.github.io/Stargazers/'
             },
             { 
                 id: 3,
                 title: 'Safe520',
-                service: '',
+                service: 'https://secure-bastion-03140.herokuapp.com/',
                 imageSrc: "https://i.imgur.com/TcsBIVu.jpg",
                 url: 'https://secure-bastion-03140.herokuapp.com/'
             },
             {
                 id: 4,
                 title: 'Day Planner',
-                service: '',
+                service: 'https://github.com/jhamilton20/dayplanner',
                 imageSrc: "https://i.imgur.com/MntpvYb.png",
-                url: 'https://jhamilton20.github.io/homeworkfive/'
+                url: 'https://jhamilton20.github.io/dayplanner/'
            }
 
                   
