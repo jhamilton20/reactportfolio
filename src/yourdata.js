@@ -21,8 +21,8 @@ export default
        projects:[
            {
             id: 1,
-            title:'Project One', 
-             service:'Bid Pro', 
+            title:'BidPro', 
+             service:'', 
          
              imageSrc: "https://i.ibb.co/3Yb9Wyx/Screen-Shot-2020-07-23-at-12-04-42-PM.png",
    
@@ -30,22 +30,22 @@ export default
             },
             {
                 id: 2,
-                title: 'Project Two',
-                service: 'Stargazerz',
+                title: 'Stargazers',
+                service: '',
                 imageSrc: "https://i.imgur.com/o8fiQsk.jpg",
                 url: 'https://jhamilton20.github.io/Stargazers/'
             },
             { 
                 id: 3,
-                title: 'Project Three',
-                service: 'Safe520',
+                title: 'Safe520',
+                service: '',
                 imageSrc: "https://i.imgur.com/TcsBIVu.jpg",
                 url: 'https://secure-bastion-03140.herokuapp.com/'
             },
             {
                 id: 4,
-                title: 'Project Four',
-                service: 'Day Planner',
+                title: 'Day Planner',
+                service: '',
                 imageSrc: "https://i.imgur.com/MntpvYb.png",
                 url: 'https://jhamilton20.github.io/homeworkfive/'
            }
