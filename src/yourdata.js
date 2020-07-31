@@ -60,6 +60,9 @@ export default
                 name: 'Linkedin',
                 url: 'https://www.linkedin.com/in/jhamilton20/'
             },
+            {
+                name: 'Phone: 928-965-4351'
+            }
            
 
         ]
