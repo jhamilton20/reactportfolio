@@ -15,7 +15,7 @@ export default
        
         contactEmail:'jhamilton72.jh@gmail.com',
         
-        abouttext: " Passionate Full Stack Software Engineer applying strong technical                 skills towards building user-friendly, professional-caliber websites.                Graduate of a Full Stack Web Development Bootcamp through The University                  of Arizona. Thorough understanding of JavaScript, React, Redux, Express,               MongoDB, HTML, CSS, and various other web technologies. Created numerous             full-stack projects both working in groups and on my own. ",
+        abouttext: " Passionate Full Stack Software Engineer applying strong technical                 skills towards building user-friendly, professional-caliber websites.                Graduate of a Full Stack Development Bootcamp through The University                  of Arizona. Thorough understanding of JavaScript, React, Redux, Express,               MongoDB, HTML, CSS, and various other web technologies. Created numerous             full-stack projects both working in groups and on my own. ",
         
     
        projects:[
